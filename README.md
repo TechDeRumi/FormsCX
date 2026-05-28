@@ -1,1 +1,14 @@
-# FormsCX
+name = input("What is your name? ")
+age = int(input("What is your age? "))
+address = input("What is your address? ")
+department = input("What is your department? ")
+university = input("What is your university? ")
+course = input("What is your course? ")
+
+print("Here is the information you provided:")
+print("Name:", name)
+print("Age:", age)
+print("Address:", address)
+print("Department:", department)
+print("University:", university)
+print("Course:", course)
